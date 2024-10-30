@@ -1,10 +1,10 @@
 Welcome to the **AWS Cloud Analytics Toolkit**! 🎉
-
+ 
 ---
 
 ## Repository Structure
 
-The repository is organized into sections focusing on each AWS analytics tool, with example code, tutorials, and best practices for real-world use cases.
+As I prepare for a Cloud Support Engineer I - Analytics role with Amazon Web Services, The repository is organized into sections focusing on each AWS analytics tool, with example code, tutorials, and best practices for real-world use cases.
 
 ### Table of Contents
 
